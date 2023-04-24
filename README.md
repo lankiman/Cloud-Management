@@ -5,7 +5,7 @@ This is a Self Given Execercise to Develop a simple Cloud Management Web App
 
 ### Links
 
-- live Site: (https://your-live-site-url.com)
+- live Site: (https://cloud-management-app-beta.vercel.app/)
 
 
 ### Built with
