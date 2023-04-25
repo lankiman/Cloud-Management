@@ -20,7 +20,7 @@ const Pricing = () => {
         </div>
         <div className="grid md:grid-cols-2">
           <PricingCard heading="standard" tittle="$49" />
-          <PricingCard heading="premium" tittle="99" />
+          <PricingCard heading="premium" tittle="$99" />
         </div>
       </div>
     </div>
